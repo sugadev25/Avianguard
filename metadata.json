@@ -1,0 +1,7 @@
+{
+  "name": "AvianGuard: Agricultural Decision Support",
+  "description": "A sophisticated, farmer-centric platform for documenting, analyzing, and predicting bird-induced crop loss through adaptive intelligence and community storytelling.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
